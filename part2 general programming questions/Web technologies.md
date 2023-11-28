@@ -3,7 +3,7 @@
 Cross-Origin Rеsourcе Sharing (CORS) is a security mechanism that allows a wеb application running in one domain to access rеsourcе from another domain. This is an important security mеasurе to prevent unauthorized access to sеnsitivе data.
 
 **How does it works?**
-* Origin: The origin is a combination of protocol, domain, and port number. For example: "https://example.com:8080".
+* Origin: The origin is a combination of protocol, domain, and port number.
 * Pre-flight request: When a web application makes a cross-origin request, the browser sends a pre-flight option request to the server that hosts the resource. This preflight request includes information about the preferred request method, headers, and data types.
 * CORS Headers: The server responds to preflight requests with CORS headers, indicating whether cross-origin requests are allowed. This header specifies the origins, methods, headers, and credentials that are allowed for the actual request.
 * Actual request: If the preflight request is successful, the browser sends an actual cross-origin request (e.g., GET, POST, PUT) to the server.
