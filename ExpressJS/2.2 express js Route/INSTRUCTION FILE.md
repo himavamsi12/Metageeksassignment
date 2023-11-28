@@ -1,4 +1,4 @@
-TO execute this file you need you need to install node.js and npm file in the local computer
+TO execute this file you need you need to install npm file (Node.js package manager) in the local computer
 
 After the installation you need to create a folder in VS Code and install necessary packages like express, nodemon ..
 
