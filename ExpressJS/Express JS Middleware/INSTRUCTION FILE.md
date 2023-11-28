@@ -2,4 +2,4 @@ TO execute this file you need you need to install npm file (Node.js package mana
 
 After the installation you need to create a folder in VS Code and install necessary packages like express, nodemon ..
 
-and this run file with nodemon app.js in the terminal. You can see the desired output in a browser.
+and this run files with "nodemon app.js" in the terminal. You can see the desired output in a browser.
