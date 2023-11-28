@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "posts": [
+      {
+        "id": 101,
+        "title": "Post 1 by Alice"
+      },
+      {
+        "id": 102,
+        "title": "Post 2 by Alice"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "posts": [
+      {
+        "id": 201,
+        "title": "Post 1 by Bob"
+      },
+      {
+        "id": 202,
+        "title": "Post 2 by Bob"
+      },
+      {
+        "id": 203,
+        "title": "Post 3 by Bob"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "posts": [
+      {
+        "id": 301,
+        "title": "Post 1 by Charlie"
+      }
+    ]
+  }
+]
